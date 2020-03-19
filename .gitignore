@@ -129,8 +129,9 @@ dmypy.json
 .pyre/
 
 # models
-.pt
-.h5
+*.pt
+*.h5
 
 # dataset
-.csv
+*.csv
+.data
